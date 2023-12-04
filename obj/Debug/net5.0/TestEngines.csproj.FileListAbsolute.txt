@@ -1,0 +1,15 @@
+E:\Job\TestEngines\bin\Debug\net5.0\TestEngines.exe
+E:\Job\TestEngines\bin\Debug\net5.0\TestEngines.deps.json
+E:\Job\TestEngines\bin\Debug\net5.0\TestEngines.runtimeconfig.json
+E:\Job\TestEngines\bin\Debug\net5.0\TestEngines.runtimeconfig.dev.json
+E:\Job\TestEngines\bin\Debug\net5.0\TestEngines.dll
+E:\Job\TestEngines\bin\Debug\net5.0\TestEngines.pdb
+E:\Job\TestEngines\obj\Debug\net5.0\TestEngines.GeneratedMSBuildEditorConfig.editorconfig
+E:\Job\TestEngines\obj\Debug\net5.0\TestEngines.AssemblyInfoInputs.cache
+E:\Job\TestEngines\obj\Debug\net5.0\TestEngines.AssemblyInfo.cs
+E:\Job\TestEngines\obj\Debug\net5.0\TestEngines.csproj.CoreCompileInputs.cache
+E:\Job\TestEngines\obj\Debug\net5.0\TestEngines.dll
+E:\Job\TestEngines\obj\Debug\net5.0\refint\TestEngines.dll
+E:\Job\TestEngines\obj\Debug\net5.0\TestEngines.pdb
+E:\Job\TestEngines\obj\Debug\net5.0\TestEngines.genruntimeconfig.cache
+E:\Job\TestEngines\obj\Debug\net5.0\ref\TestEngines.dll
